@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="100%" height="auto" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/tXTqLBYNf0N7W/giphy.gif?cid=790b7611r8j6d0q4nyt3ealc1saketpm4gbc9l7l1qzyhqc9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="auto" alt="Welcome Banner">
 </div>
 
 <h1 align="center">
