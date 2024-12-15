@@ -1,17 +1,12 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/tXTqLBYNf0N7W/giphy.gif?cid=790b7611r8j6d0q4nyt3ealc1saketpm4gbc9l7l1qzyhqc9&ep=v1_gifs_search&rid=giphy.gif" width="100%" height="auto" alt="Welcome Banner">
+# <div align="center">
   <h1>
     Hello World! I'm Ricardo Barroca 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
   </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFudTA1bTF1MTUzZ3JoejgzOXM4MmtoZW4waHh2Y2s4eWgyaDB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="60%" height="auto" alt="Coding GIF">
-</div>
 
-<div align="center">
   <h3>Creating opportunities through code and innovation 🚀</h3>
-</div>
 
-<div align="center">
   <a href="https://www.linkedin.com/in/ricardobarroca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -21,9 +16,8 @@
   <a href="https://www.instagram.com/rbarrocaa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elbarroca.elbarroca&" alt="visitors"/>
 </div>
 
 <div align="center">
