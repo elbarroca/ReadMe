@@ -74,5 +74,5 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="100%" height="400" alt="Work in Progress">
+  <img src="https://media.giphy.com/media/plrhd7RveGGZy/giphy.gif?cid=ecf05e475vj5mcmr62yis01maq5oeu4mbukr6bt0jdi0a1x4&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="400" alt="Work in Progress">
 </div>
