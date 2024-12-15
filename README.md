@@ -1,10 +1,10 @@
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/g2kJdpq3/pitch.jpg"  />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="800" height="100" alt="Welcome banner">
 </div>
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/cat-typing.gif" width="200" height="200" alt="Coding cat">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardobarroca/" target="_blank">
@@ -19,30 +19,31 @@
   <img src="https://img.shields.io/static/v1?message=barroca_10&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elbarroca.elbarroca&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elbarroca.elbarroca&" />
 </div>
 
-###
+<h1 align="center">
+  Hello World! I'm Ricardo Barroca 
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/unicorn.gif" width="50" height="50" alt="unicorn">
+</h1>
 
-<h1 align="center">Hellooo I'm Ricardo Barroca 👋</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" width="20" height="20" alt="flame">
+  <b>Creating opportunities through code and innovation</b>
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" width="20" height="20" alt="flame">
+</div>
 
-###
+### 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+I'm passionate about creating opportunities, partnerships, business ideas, automation, and solutions.
 
-###
+- 🔭 Currently working on an **arbitrage aggregator on-chain Dapp**
+- 📚 Learning **Rust** and **Solidity** while enhancing my React skills
+- ⚡ In my free time, I code and brainstorm new ideas
+- 🌟 Always open to collaborating on innovative projects
 
-<p align="left">I'm passionate about creating opportunities, partnerships, business ideas, automation, and solutions. <br>Here's a bit about my journey:<br><br>- 🔭 Currently working on an arbitrage aggregator on-chain Dapp<br>- 📚 Learning Rust and Solidity while enhancing my React skills.<br>- ⚡ In my free time, I code and brainstorm new ideas.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### 🛠 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -59,12 +60,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🔥 Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=elbarroca&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif" width="400" height="40" alt="under construction">
 </div>
