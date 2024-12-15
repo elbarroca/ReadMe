@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="800" height="100" alt="Welcome Banner">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="800" height="200" alt="Welcome Banner">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" height="250" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhlenE5emJqZDV1N3hiY200NWNvbDQ4OHlxNzJucThncXhwejlnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="250" height="250" alt="Coding GIF">
 </div>
 
 <div align="center">
