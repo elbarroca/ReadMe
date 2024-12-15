@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/welcome-header.gif" width="100%" height="auto" alt="Welcome Banner">
 </div>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFudTA1bTF1MTUzZ3JoejgzOXM4MmtoZW4waHh2Y2s4eWgyaDB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="60%" height="auto" alt="Coding GIF">
+</div>
+
 <h1 align="center">
   Hello World! I'm Ricardo Barroca 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
@@ -28,10 +32,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=elbarroca.elbarroca&" alt="visitors"/>
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFudTA1bTF1MTUzZ3JoejgzOXM4MmtoZW4waHh2Y2s4eWgyaDB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="60%" height="auto" alt="Coding GIF">
 </div>
 
 ## 👨‍💻 About Me
@@ -92,5 +92,5 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="100%" height="40" alt="Work in Progress">
+  <img src="https://media.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" width="100%" height="200" alt="Work in Progress">
 </div>
