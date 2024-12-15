@@ -1,13 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/tXTqLBYNf0N7W/giphy.gif?cid=790b7611r8j6d0q4nyt3ealc1saketpm4gbc9l7l1qzyhqc9&ep=v1_gifs_search&rid=giphy.gif" width="100%" height="auto" alt="Welcome Banner">
-</div>
-
-<h1 align="center">
-  Hello World! I'm Ricardo Barroca 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
-</h1>
-
-<div align="center">
+  <h1>
+    Hello World! I'm Ricardo Barroca 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving Hand">
+  </h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFudTA1bTF1MTUzZ3JoejgzOXM4MmtoZW4waHh2Y2s4eWgyaDB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="60%" height="auto" alt="Coding GIF">
 </div>
 
@@ -89,10 +85,6 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
   <a href="https://www.linkedin.com/in/ricardobarroca/">
     <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-</div>
-
-<div align="center">
-  <p>WIP !</p>
 </div>
 
 <div align="center">
