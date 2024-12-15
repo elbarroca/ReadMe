@@ -28,7 +28,7 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
 
 <img align="right" src="https://media.giphy.com/media/rSCVJasn8uZP2/giphy.gif" width="300" alt="Code and Innovation">
 
-- 🔭 Currently working on an **arbitrage aggregator on-chain Dapp**
+- 🔭 Currently working on an **(Secret AI App to solve Company inefficiency) **
 - 📚 Exploring **Rust** and **Solidity** while enhancing my **React** skills
 - 🌍 Attended **25+ global conferences** to learn, collaborate, and grow
 - ⚡ I thrive on building **AI apps, SaaS platforms**, and **Dapps**
