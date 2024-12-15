@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhlenE5emJqZDV1N3hiY200NWNvbDQ4OHlxNzJucThncXhwejlnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="250" height="250" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFudTA1bTF1MTUzZ3JoejgzOXM4MmtoZW4waHh2Y2s4eWgyaDB2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" width="500" height="250" alt="Coding GIF">
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardobarroca/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo" />x
   </a>
   <a href="https://t.me/ricardoroca1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram Logo" />
@@ -87,5 +87,5 @@ Let’s build what matters! 🚀
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300" height="200" alt="Code and Innovation">
+  <img src="https://media.giphy.com/media/rSCVJasn8uZP2/giphy.gif?cid=790b7611pol6nl0gw3u78kqs68eb61urw705a51suz0tzs4n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200" alt="Code and Innovation">
 </div>
