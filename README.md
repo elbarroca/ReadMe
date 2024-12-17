@@ -60,11 +60,7 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elbarroca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" width="49%" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=elbarroca&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=3B82F6&fire=3B82F6&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=3B82F6&sideNums=3B82F6&sideLabels=3B82F6&dates=6B7280" width="49%" alt="Streak Graph" />
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elbarroca&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" width="49%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=elbarroca&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" width="100%" alt="Streak Graph" />
 </div>
 
 ## 🌟 Let's Connect & Collaborate!
