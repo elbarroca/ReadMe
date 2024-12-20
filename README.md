@@ -72,7 +72,3 @@ I'm an **8x Hackathon Winner**, innovator, and tech enthusiast passionate about 
     <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JdnijZhB4bhMk/giphy.gif?cid=ecf05e4776n8lpmuajozgprpklb3kb107ycrk16b50ztoisi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="800" alt="Work in Progress">
-</div>
